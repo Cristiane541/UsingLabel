@@ -1,3 +1,3 @@
 # Using Label
 
-In this program I apply a label in a loop statement
+In this program I apply a label break in a loop statement
