@@ -9,7 +9,7 @@ public class Main {
             for (String nomes: groups[i]) {
                 if (nomes.equalsIgnoreCase("alice")){
                     System.out.println("Encontrei Alice");
-                    continue FOUND_HER;
+                    break FOUND_HER;
                 }
             }
         }
